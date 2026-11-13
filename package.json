@@ -1,6 +1,6 @@
 {
   "name": "dsh-git-tree-gui",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Git tree GUI for DeepSeek Harness: sub-repository discovery, WebStorm-style log/commit/stash panel, branch actions, whole-file editable diffs",
   "type": "module",
   "icon": "icon.svg",
