@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Git tree GUI",
+    "zh": "Git 树面板"
+  },
+  "description": {
+    "en": "A private index carrying dsh-git-tree-gui.",
+    "zh": "只收录 dsh-git-tree-gui 的私有索引。"
+  },
+  "metadata": {
+    "categories": {
+      "git": {
+        "title": {
+          "en": "Git",
+          "zh": "Git"
+        }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-git-tree-gui",
+      "title": "IKUN798ProMax/dsh-git-tree-GUI",
+      "description": {
+        "en": "Git panel for DSH: sub-repository discovery, a WebStorm-style log/commit/stash window, right-click branch actions, remote-ahead badges and file diffs.",
+        "zh": "DSH 的 Git 面板：识别工作区内的多个子仓库，WebStorm 风格的日志/提交/储藏三页签，分支右键菜单，远程落后提示与文件差异。"
+      },
+      "homepage": "https://github.com/IKUN798ProMax/dsh-git-tree-GUI",
+      "repository": {
+        "url": "https://github.com/IKUN798ProMax/dsh-git-tree-GUI"
+      },
+      "metadata": {
+        "category": "git",
+        "keywords": [
+          "git",
+          "branch",
+          "stash",
+          "diff",
+          "worktree"
+        ],
+        "labels": [],
+        "sortKeys": {}
+      },
+      "versions": [
+        {
+          "version": "0.2.0",
+          "source": {
+            "type": "npm"
+          },
+          "engines": {
+            "dsh": ">=0.2.1-rc.3"
+          }
+        }
+      ]
+    }
+  ]
+}

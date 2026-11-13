@@ -1,0 +1,7 @@
+node_modules/
+*.tgz
+stage/
+.version.json
+.DS_Store
+lib/types/
+*.map
