@@ -55,8 +55,18 @@
   "keywords": [
     "dsh",
     "dsh-plugin",
+    "deepseek-harness",
     "git",
     "git-graph",
-    "deepseek-harness"
-  ]
+    "git-ui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IKUN798ProMax/dsh-git-tree-GUI.git"
+  },
+  "homepage": "https://github.com/IKUN798ProMax/dsh-git-tree-GUI",
+  "bugs": {
+    "url": "https://github.com/IKUN798ProMax/dsh-git-tree-GUI/issues"
+  },
+  "author": "peihongwei"
 }
